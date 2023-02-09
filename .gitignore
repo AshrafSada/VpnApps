@@ -1,5 +1,0 @@
-# ignore all in project folder object OBJ
-BasicVpnApp/obj/*
-
-# ignore all in project folder BIN/Debug
-BasicVpnApp/bin/Debug/*
